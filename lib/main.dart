@@ -78,7 +78,7 @@ class _HomeState extends State<Home> {
               Container(
                   width: 400,
                   child: Text(
-                    'HI Semua.Saya Sekar Ayu dan saya berkuliah di UNIVERSITAS PENDIDIKAN NASIONAL DENPASAR Semester 4',
+                    'Hello.I am Sekar and lecturing at the Faculty of Engineering and Informatics at the Universitas Pendidikan Nasional My point of interest includes Web programing Concept',
                     textAlign: TextAlign.center,
                     style: TextStyle(
                       color: Color.fromARGB(255, 216, 212, 212),
