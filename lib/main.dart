@@ -154,8 +154,8 @@ class _HomeState extends State<Home> {
                     "UI/UX",
                     style: TextStyle(color: Color.fromARGB(255, 216, 212, 212)),
                   ),
-                  SizedBox(width: 28),
-                  Text("SQL",
+                  SizedBox(width: 29),
+                  Text(" SQL",
                       style:
                           TextStyle(color: Color.fromARGB(255, 216, 212, 212))),
                   SizedBox(width: 28),
